@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b63cf2ec-721d-4463-9548-4fab1c04622b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../masmp2/masmp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Association_with_attribute/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Association_with_attribute/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Composition/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Composition/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Glasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../masmp2/src/Lenses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masmp1/out/production/masmp1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../masmp1/out/production/masmp1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/system/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/system/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RDCvU0Qu7rNKS3B0pgCidh0FdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b63cf2ec-721d-4463-9548-4fab1c04622b" name="Changes" comment="" />
+      <created>1686775495588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686775495588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
